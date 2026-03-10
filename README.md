@@ -31,7 +31,7 @@ Materiais de aulas do professor Berg Dantas. Nesta disciplina, estudaremos as te
     </tr>
     <tr>
         <td>11/03</td>
-        <td>Como funciona a internet?</td>
+        <td><a href="https://www.canva.com/design/DAHDltzuWHQ/oxngjwHOxkBmp92BFQY4Cw/edit?utm_content=DAHDltzuWHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Como funciona a internet?</a></td>
     </tr>
     <tr>
         <td>17/03</td>
