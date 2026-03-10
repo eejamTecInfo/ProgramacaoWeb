@@ -75,7 +75,7 @@ Materiais de aulas do professor Berg Dantas. Nesta disciplina, estudaremos as te
     </tr>
     <tr>
         <td>21/04</td>
-        <td>Feriado</td>
+        <td>Feriado.</td>
     </tr>
     <tr>
         <td>22/04</td>
@@ -91,10 +91,20 @@ Materiais de aulas do professor Berg Dantas. Nesta disciplina, estudaremos as te
     </tr>
     <tr>
         <td>05/05</td>
-        <td>Apresentações</td>
+        <td>Apresentações.</td>
     </tr>
     <tr>
         <td>06/05</td>
-        <td>Apresentações</td>
+        <td>Apresentações.</td>
     </tr>
 </table>
+
+## Referências
+
+CASTRO, E.; HYSLOP, B. HTML e CSS: Guia prático e visuall. 7a ed. Rio de Janeiro:
+Alta Books, 2013. 
+
+<a href="Livros/Jon Duckett - HTML e CSS.pdf">DUCKETT, J. HTML e CSS: Projete e construa websites. Rio de Janeiro: Alta Books, 2016. </a>
+
+W3SCHOOLS. Online Web Tutorial. 2026. Acesso em: 4 fev. 2026. Disponível em:
+<www.w3schools.com>
