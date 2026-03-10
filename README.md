@@ -37,55 +37,63 @@ Materiais de aulas do professor Berg Dantas. Nesta disciplina, estudaremos as te
         <td>17/03</td>
         <td><p>Configurando o ambiente de trabalho;</p><p>Tipos de arquivos.</p></td>
     </tr>
+    <tr>
         <td>18/03</td>
         <td><p>Estrutura de uma página WEB;</p><p>Semântica.</p></td>
     </tr>
+    <tr>
         <td>24/03</td>
         <td>Texto.</td>
     </tr>
+    <tr>
         <td>25/03</td>
         <td>Listas.</td>
     </tr>
+    <tr>
         <td>31/03</td>
         <td>Link.</td>
     </tr>
+    <tr>
         <td>01/04</td>
         <td>Imagem.</td>
     </tr>
+    <tr>
         <td>07/04</td>
         <td>Vídeo.</td>
     </tr>
+    <tr>
         <td>08/04</td>
         <td>Tabela.</td>
     </tr>
-    </tr>
+    <tr>
         <td>14/04</td>
         <td>Formulário.</td>
     </tr>
-    </tr>
+    <tr>
         <td>15/04</td>
         <td>Formulário.</td>
     </tr>
-    </tr>
+    <tr>
         <td>21/04</td>
         <td>Feriado</td>
     </tr>
-    </tr>
+    <tr>
         <td>22/04</td>
         <td>Formulário.</td>
     </tr>
-    </tr>
+    <tr>
         <td>28/04</td>
         <td>Formulário.</td>
     </tr>
-    </tr>
+    <tr>
         <td>29/04</td>
         <td>Formulário.</td>
     </tr>
-    </tr>
+    <tr>
         <td>05/05</td>
         <td>Apresentações</td>
     </tr>
+    <tr>
         <td>06/05</td>
         <td>Apresentações</td>
     </tr>
