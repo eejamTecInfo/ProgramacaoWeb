@@ -31,7 +31,7 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr>
     <tr>
         <td>11/03</td>
-        <td>Sem aula no contraturno</td>
+        <td>Sem aula no contraturno.</td>
     </tr>
     <tr>
         <td>17/03</td>
