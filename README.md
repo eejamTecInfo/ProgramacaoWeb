@@ -2,7 +2,7 @@
 
 # Programacao Web
 
-Materiais de aulas do professor Berg Dantas. Nesta disciplina, estudaremos as tecnologias:
+Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tecnologias:
 
 <p align="left">
   <a href="https://skillicons.dev">
