@@ -31,19 +31,19 @@ Materiais de aula do professor Berg Dantas. Nesta disciplina, estudaremos as tec
     </tr>
     <tr>
         <td>11/03</td>
-        <td><a href="https://www.canva.com/design/DAHDltzuWHQ/oxngjwHOxkBmp92BFQY4Cw/edit?utm_content=DAHDltzuWHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Como funciona a internet?</a></td>
+        <td>Sem aula no contraturno</td>
     </tr>
     <tr>
         <td>17/03</td>
-        <td><p>Configurando o ambiente de trabalho;</p><p>Tipos de arquivos.</p></td>
+        <td><a href="https://www.canva.com/design/DAHDltzuWHQ/oxngjwHOxkBmp92BFQY4Cw/edit?utm_content=DAHDltzuWHQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Como funciona a internet?</a></td>
     </tr>
     <tr>
         <td>18/03</td>
-        <td><p>Estrutura de uma página WEB;</p><p>Semântica.</p></td>
+        <td><p>Configurando o ambiente de trabalho;</p><p>Tipos de arquivos.</p></td>
     </tr>
     <tr>
         <td>24/03</td>
-        <td>Texto.</td>
+        <td><p>Estrutura de uma página WEB;</p><p>Semântica;</p><p>Texto.</p></td>
     </tr>
     <tr>
         <td>25/03</td>
